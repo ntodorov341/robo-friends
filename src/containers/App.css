@@ -1,0 +1,13 @@
+
+@font-face {
+  font-family: 'Vectroid-Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Vectroid-Regular'), url('vectroid.woff') format('woff');
+  }
+
+h1 {
+  font-family: 'Vectroid-Regular';
+  font-weight: 200;
+  color: #FFFE78;
+}
