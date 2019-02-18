@@ -8,7 +8,7 @@ Robo - friends is a simple react application showing how and what react does wel
 
 ### Packages that i have used: 
 
-* Tachyons - making css look easy
+* Tachyons - makes css look easy
 
 If you want to take a look at the app : https://radiant-wildwood-85244.herokuapp.com/
 
